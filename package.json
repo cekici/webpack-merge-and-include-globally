@@ -46,11 +46,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markshapiro/webpack-merge-and-include-globally.git"
+    "url": "git+https://github.com/cekici/webpack-merge-and-include-globally.git"
   },
   "bugs": {
-    "url": "https://github.com/markshapiro/webpack-merge-and-include-globally/issues"
+    "url": "https://github.com/cekici/webpack-merge-and-include-globally/issues"
   },
-  "homepage": "https://github.com/markshapiro/webpack-merge-and-include-globally#readme",
+  "homepage": "https://github.com/cekici/webpack-merge-and-include-globally#readme",
   "licenses": []
 }
